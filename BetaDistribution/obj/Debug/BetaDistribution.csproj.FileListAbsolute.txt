@@ -1,0 +1,12 @@
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\bin\Debug\BetaDistribution.exe.config
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\bin\Debug\BetaDistribution.exe
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\bin\Debug\BetaDistribution.pdb
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.csprojAssemblyReference.cache
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.Properties.Resources.resources
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.csproj.GenerateResource.cache
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.csproj.CoreCompileInputs.cache
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.exe
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.pdb
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.Form1.resources
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.Form2.resources
+C:\Users\Owner\RiderProjects\BetaDistribution\BetaDistribution\obj\Debug\BetaDistribution.Form3.resources
